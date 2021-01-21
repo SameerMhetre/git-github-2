@@ -1,0 +1,4 @@
+Go to your Account Settings
+Click "Emails"
+Click "Add another email address"
+Enter the email address and click "Add"
